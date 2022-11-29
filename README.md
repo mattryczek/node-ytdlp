@@ -5,7 +5,7 @@ Meant to run on local network only, the main idea was to let mobile devices leve
 ## Running
 
 1. Clone repo or download zip
-2. Extra if necessary
+2. Extract if necessary
 3. cd to $directory
 4. `npm i && npm run dev`
 5. App now live on [localhost:3000](http://localhost:3000)
